@@ -11,5 +11,15 @@ body {
   border-color: #ccc;
 }
 .carousel-inner .item .img {
-    width: 100%;
+  width: 100%;
+}
+.floats {
+  float: left;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.about {
+  padding: 25px;
 }
