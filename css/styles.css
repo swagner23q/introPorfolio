@@ -1,11 +1,15 @@
 body {
   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
-.cherry {
-  background-image: url('../images/cherryblossoms.jpg');
-  width: 100%;
-  height: 100%;
-  background-position:center;
-  background-size:cover;
-  text-align: center;
+.carousel-indicators {
+  bottom: 0;
+}
+.carousel-indicators .active {
+  background-color: #fff;
+}
+.carousel-indicators li {
+  border-color: #ccc;
+}
+.carousel-inner .item .img {
+    width: 100%;
 }
