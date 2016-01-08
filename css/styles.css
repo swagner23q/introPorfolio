@@ -1,0 +1,11 @@
+body {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+.cherry {
+  background-image: url('../images/cherryblossoms.jpg');
+  width: 100%;
+  height: 100%;
+  background-position:center;
+  background-size:cover;
+  text-align: center;
+}
