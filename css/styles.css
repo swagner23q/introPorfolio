@@ -14,9 +14,15 @@ body {
   width: auto !important;
   height: 500px !important;
 }
+.glyphicon {
+  color: teal;
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
 .floats {
   float: left;
-  text-align: center;
 }
 h3 {
   text-align: center;
