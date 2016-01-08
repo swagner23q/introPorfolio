@@ -34,9 +34,9 @@ h4 {
 .about {
   margin: 12px !important;
   border: 2px dotted;
-  padding: 4px;
+  padding: 10px;
   background-color: #ccc;
-  text-align: right;
+  text-align: left;
   float: right;
 }
 .boxmodel {
