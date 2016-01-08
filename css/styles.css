@@ -10,8 +10,9 @@ body {
 .carousel-indicators li {
   border-color: #ccc;
 }
-.carousel-inner .item .img {
-  width: 100%;
+.sliders {
+  width: auto !important;
+  height: 500px !important;
 }
 .floats {
   float: left;
