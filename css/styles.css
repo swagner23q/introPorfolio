@@ -16,17 +16,33 @@ body {
 }
 .glyphicon {
   color: teal;
-  font-weight: bold;
+  font-size: 40px;
 }
 .center {
   text-align: center;
 }
 .floats {
-  float: left;
+  float: right;
+  padding-left: 25px;
 }
 h3 {
   text-align: center;
 }
+h4 {
+  text-align: center;
+}
 .about {
-  padding: 25px;
+  margin: 12px !important;
+  border: 2px dotted;
+  padding: 4px;
+  background-color: #ccc;
+  text-align: right;
+  float: right;
+}
+.boxmodel {
+  margin: 12px !important;
+  border: 2px solid pink;
+  padding: 4px;
+  background-color: #ccc;
+  text-align: center;
 }
