@@ -14,9 +14,10 @@ body {
   width: auto !important;
   height: 500px !important;
 }
-.sliders2 {
+.slidersduce {
   width: auto !important;
-  height: 200px !important;
+  height: 300px !important;
+  text-align: center;
 }
 .glyphicon {
   color: teal;
@@ -41,7 +42,7 @@ h4 {
   color: maroon;
 }
 .about {
-  margin: 12px !important;
+  margin-bottom: 20px;
   border: 2px dotted;
   padding: 10px;
   background-color: #ccc;
