@@ -1,7 +1,7 @@
-Sara Wagner
+Sara Wagner--
 Atom and Terminal
 
-This is my first code review as first project for a portfolio.
+This is my first code review and first project for a portfolio.
 
 No setup should be needed.
 
