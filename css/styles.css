@@ -11,7 +11,7 @@ body {
   border-color: #ccc;
 }
 .sliders {
-  width: auto !important;
+  max-width: none !important;
   height: 500px !important;
 }
 .slidersduce {
@@ -63,4 +63,7 @@ h4 {
   border: 2px solid pink;
   padding: 10px;
   text-align: center;
+}
+.deadspace {
+  padding-top: 1000px;
 }
