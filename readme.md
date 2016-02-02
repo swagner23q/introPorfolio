@@ -1,7 +1,7 @@
 ## Sara Wagner
 #### Portfolio
 
-~~Description~~
+~Description~
 
 This is a project for week 1 at Epicodus. It includes languages **HTML, CSS, and Bootstrap**. This project will contain an about me section, explain why I chose programming and provide links to projects I have worked on through exercises with the school.
 
